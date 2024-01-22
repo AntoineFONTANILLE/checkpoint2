@@ -1,0 +1,1 @@
+Q1.1 l'adresse de sous réseau du serveur est 172.16.10.10/24. Cela correspond au sous-reseau 172.16.10.10 où le dernier octet peut être utilisé pour définir les adresses du sous réseau. En clair, sur ce sous-reseau toute machine aura une adresse IP du type 172.16.10.X où X prends pour valeur un entier entre 
