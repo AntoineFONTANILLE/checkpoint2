@@ -1,4 +1,4 @@
-**_EX1_** \
+**_EX1_** 
 
 
 Q1.1 : L'adresse de sous réseau du serveur est 172.16.10.10/24. Cela correspond au sous-réseau 172.16.10.10 où le dernier octet peut être utilisé pour définir les adresses du sous réseau. En clair, sur ce sous-réseau toute machine aura une adresse IP du type 172.16.10.X où X prends pour valeur un entier entre 1 et 254 (les première et dernière étant par convention réservé respectivement au sous-réseau et à la diffusion).
